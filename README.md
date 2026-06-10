@@ -1,5 +1,5 @@
 
-![alt](images/p1.png)
+![圖片](./images/p1.png)
 
 # 大大大大標
 ## 大大大標
